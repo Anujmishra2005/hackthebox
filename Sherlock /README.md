@@ -10,4 +10,8 @@ Sherlock Challenge :-----------
 
 
 
-Machines Pwned :-------
+Machines Pwned :-----
+
+
+
+Machines Not pwned :---------
